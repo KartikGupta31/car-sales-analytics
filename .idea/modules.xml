@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ai-service/ai-service.iml" filepath="$PROJECT_DIR$/ai-service/ai-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/car sales system.iml" filepath="$PROJECT_DIR$/.idea/car sales system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/car-sales-backend/car-sales-backend.iml" filepath="$PROJECT_DIR$/car-sales-backend/car-sales-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/car-sales-frontend/car-sales-frontend.iml" filepath="$PROJECT_DIR$/car-sales-frontend/car-sales-frontend.iml" />
+    </modules>
+  </component>
+</project>
