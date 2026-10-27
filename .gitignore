@@ -1,0 +1,27 @@
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# Java / Maven
+**/target/
+*.class
+
+# Frontend
+**/node_modules/
+**/dist/
+**/dist-ssr/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Logs
+*.log
